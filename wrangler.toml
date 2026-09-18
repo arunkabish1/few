@@ -1,5 +1,5 @@
 name = "few"
-main = "src/index.ts"
+main = "src/launchpad-gate.ts"
 compatibility_date = "2025-08-01"
 
 [observability]
